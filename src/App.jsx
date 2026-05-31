@@ -1554,8 +1554,8 @@ export default function App() {
         <svg width="150" height="136" viewBox="0 0 64 58" fill="none" stroke="#3bb6cb" strokeWidth="1.8" strokeLinejoin="round" style={{position:"absolute",left:"50%",top:54,transform:"translateX(-50%)",opacity:0.24,filter:"drop-shadow(0 0 9px rgba(72,199,214,0.55))"}} aria-hidden="true">
           <polygon points="32,6 14,37 50,37"/><polygon points="20,21 2,52 38,52"/><polygon points="44,21 26,52 62,52"/>
         </svg>
-        <div style={{position:"absolute",top:"50%",left:"max(8px, calc(50% - 352px))",transform:"translateY(-50%)",writingMode:"vertical-rl",fontSize:15,letterSpacing:"0.26em",color:"#2f9fb5",opacity:0.72,textShadow:"0 0 10px rgba(72,199,214,0.6)"}}>ᚦᚢᚱᚨᚱᚲᛟᛞ</div>
-        <div style={{position:"absolute",top:"50%",right:"max(8px, calc(50% - 352px))",transform:"translateY(-50%)",writingMode:"vertical-rl",fontSize:15,letterSpacing:"0.26em",color:"#2f9fb5",opacity:0.72,textShadow:"0 0 10px rgba(72,199,214,0.6)"}}>ᚨᚺᛞᚢᚾᚲᚱᛁ</div>
+        <div style={{position:"absolute",top:"50%",left:"max(8px, calc(50% - 340px))",transform:"translateY(-50%)",writingMode:"vertical-rl",fontSize:15,letterSpacing:"0.26em",color:"#2f9fb5",opacity:0.72,textShadow:"0 0 10px rgba(72,199,214,0.6)"}}>ᚦᚢᚱᚨᚱᚲᛟᛞ</div>
+        <div style={{position:"absolute",top:"50%",right:"max(8px, calc(50% - 340px))",transform:"translateY(-50%)",writingMode:"vertical-rl",fontSize:15,letterSpacing:"0.26em",color:"#2f9fb5",opacity:0.72,textShadow:"0 0 10px rgba(72,199,214,0.6)"}}>ᚨᚺᛞᚢᚾᚲᚱᛁ</div>
         <div style={{position:"absolute",inset:0,background:"radial-gradient(120% 88% at 50% 16%, transparent 52%, rgba(0,0,0,0.26) 100%)"}}/>
       </div>
       <style>{`
