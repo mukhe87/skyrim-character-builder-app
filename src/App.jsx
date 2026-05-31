@@ -1541,7 +1541,7 @@ export default function App() {
   );
 
   return (
-    <div style={{"--color-text-primary":"#e7ecf2","--color-text-secondary":"#aeb6c1","--color-text-tertiary":"#7f8893","--color-background-primary":"#1b1e24","--color-background-secondary":"#23272e","--color-background-tertiary":"#14171c","--color-border-tertiary":"rgba(255,255,255,0.10)","--color-border-secondary":"rgba(255,255,255,0.16)","--color-border-primary":"rgba(255,255,255,0.22)",...s0,padding:"1rem 0",maxWidth:680,position:"relative",isolation:"isolate"}}>
+    <div style={{"--color-text-primary":"#e7ecf2","--color-text-secondary":"#aeb6c1","--color-text-tertiary":"#7f8893","--color-background-primary":"#1b1e24","--color-background-secondary":"#23272e","--color-background-tertiary":"#14171c","--color-border-tertiary":"rgba(255,255,255,0.10)","--color-border-secondary":"rgba(255,255,255,0.16)","--color-border-primary":"rgba(255,255,255,0.22)",...s0,padding:"1rem 0",maxWidth:680,margin:"0 auto",minHeight:"100vh",display:"flex",alignItems:"center",justifyContent:"center",flexDirection:"column",position:"relative",isolation:"isolate"}}>
       <div aria-hidden="true" style={{position:"fixed",inset:0,zIndex:-1,pointerEvents:"none",overflow:"hidden",background:"radial-gradient(95% 75% at 50% -5%, var(--color-background-secondary), var(--color-background-tertiary) 78%)"}}>
         <svg width="100%" height="100%" preserveAspectRatio="xMidYMid slice" style={{position:"absolute",inset:0}} aria-hidden="true">
           <defs><pattern id="codexWeave" width="46" height="42" patternUnits="userSpaceOnUse">
